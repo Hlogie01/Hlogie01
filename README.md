@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lehlogonolo Shai</h1>
+<h1 align="center">Hi 👋, Lehlogonolo Shai here</h1>
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlogie01&label=Profile%20views&color=0e75b6&style=flat" alt="hlogie01" /> </p>
