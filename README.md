@@ -1,92 +1,180 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi, I'm Lehlogonolo Shai
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-</h1>
-
-<h3 align="center">🚀 Fullstack Developer | South Africa 🌍</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF4C29&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Clean+code+enthusiast;Lifelong+learner;Code.+Debug.+Repeat." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hlogie01&label=Profile%20views&color=1DA1F2&style=flat" alt="hlogie01" />
-  <img src="https://img.shields.io/github/followers/hlogie01?label=Followers&style=social" alt="GitHub followers">
-</p>
-
-<p align="center">Follow me and I will follow you back </p>
+<!--
+    █░░ █▀▀ █░█ █░░ █▀█ █▀▀ █▀█ █▄░█ █▀█ █░░ █▀█   █▀ █░█ ▄▀█ █
+    █▄▄ ██▄ █▀█ █▄▄ █▄█ █▄█ █▄█ █░▀█ █▄█ █▄▄ █▄█   ▄█ █▀█ █▀█ █
+-->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lehlogonolo%20Shai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  
+  ### 🌟 Full-Stack Developer | Problem Solver | Code Enthusiast
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+from+South+Africa;Building+scalable+web+applications;Clean+code+enthusiast;Always+ready+for+new+challenges!" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 📫 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/lehlogonoshai2014" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:mllehlogonolo@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🎯 **Current Focus**
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  expertise: string[];
+  currentGoals: string[];
+  funFact: string;
+}
 
-### 🛠️ Tech Stack
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+const me: Developer = {
+  name: "Lehlogonolo Shai",
+  location: "Johannesburg, SA 🇿🇦",
+  expertise: [
+    "Full-Stack Development",
+    "Clean Architecture", 
+    "API Design"
+  ],
+  currentGoals: [
+    "Mastering Cloud Technologies",
+    "Contributing to Open Source",
+    "Building Impactful Products"
+  ],
+  funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</td>
+<td width="50%" valign="top">
 
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📈 **Quick Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlogie01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hlogie01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=hlogie01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=hlogie01&style=for-the-badge&color=blueviolet)
+  
+  ![Followers](https://img.shields.io/github/followers/hlogie01?style=for-the-badge&color=blue&labelColor=000000)
+  
+  ![Years Coding](https://img.shields.io/badge/Years%20Coding-3+-brightgreen?style=for-the-badge&labelColor=000000)
+  
+  [![Coffee Consumed](https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=coffee&logoColor=white&labelColor=000000)](#)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ **Technology Stack**
+
+<div align="center">
+
+### **Frontend Arsenal**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend Power**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### **Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### **Developer Tools**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hlogie01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlogie01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<div align="center">
+  
+### 🏆 **Achievements & Highlights**
+  
+![Commits](https://img.shields.io/badge/Total%20Commits-500+-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Repositories](https://img.shields.io/badge/Public%20Repos-5+-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Repositories](https://img.shields.io/badge/Private%20Repos-20+-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-success?style=for-the-badge&logo=codeclimate&logoColor=white&labelColor=000000)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Expert-orange?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000)
+
+</div>
+
+---
+
+## 🚀 **What Drives Me**
+
+<div align="center">
+  
+  ```
+  ┌─ Current Mission ─────────────────────────────────────────┐
+  │                                                           │
+  │  🎯 Building robust, scalable web applications           │
+  │  🌱 Exploring advanced cloud architecture patterns       │
+  │  🤝 Contributing to open-source projects                 │
+  │  📚 Continuously learning and sharing knowledge          │
+  │  ⚡ Mentoring upcoming developers                         │
+  │                                                           │
+  └───────────────────────────────────────────────────────────┘
+  ```
+  
+</div>
+
+---
+
+## 💬 **Let's Connect & Collaborate**
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lehlogonoshai2014)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mllehlogonolo@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hlogie01)
+  
+  <br/>
+  
+  ### 🌟 *"Great software is built by great teams. Let's create something amazing together!"*
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=F75C2F&center=true&vCenter=true&width=435&lines=Code+%F0%9F%92%BB.+Learn+%F0%9F%93%9A.+Repeat+%E2%9A%94%EF%B8%8F" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together;Happy+coding!" />
+  
+  <br/>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  
 </div>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> — if you want to say <b>hi</b>, I’ll be happy to meet you! 😊</em>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
